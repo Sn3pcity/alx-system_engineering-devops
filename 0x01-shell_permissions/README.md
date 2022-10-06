@@ -1,2 +1,2 @@
-Write a script that creates an empty file called hello
-Task 4. Empty!
+Write a script that adds execute permission to the owner of the file hello.
+Task 5.Execute
