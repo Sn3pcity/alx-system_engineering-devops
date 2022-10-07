@@ -1,2 +1,6 @@
-Display current directory contents in a long format
-Task 3. The long format
+Create a script that moves all files beginning with an uppercase letter to the directory /tmp/u.
+
+
+
+You can assume that the directory /tmp/u will exist when we will run your script
+Task 15. Let’s move
