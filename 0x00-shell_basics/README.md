@@ -1,6 +1,2 @@
-Create a script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
-
-
-
-You can consider that all HTML files have the extension .html
-Task 14. Copy HTML files
+Display current directory contents in a long format
+Task 3. The long format
