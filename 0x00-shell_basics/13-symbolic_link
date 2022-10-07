@@ -1,3 +1,2 @@
 #!/bin/bash
-ln -s /bin/ls __ls__
-Task 13. We are symbols, and inhabit symbols
+ln -s /bin/ls __ls__ 
