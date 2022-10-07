@@ -1,2 +1,2 @@
-Write a script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
-Task 11.Lists
+Write a script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script.
+Task 12.Task Type
