@@ -1,1 +1,1 @@
-Convert no. from base 10 to 16
+prints all lines from input
