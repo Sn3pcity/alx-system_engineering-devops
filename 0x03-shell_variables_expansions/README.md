@@ -1,5 +1,4 @@
-Create a script that creates a new global variable.
+Write a script that prints the result of POWER divided by DIVIDE, followed by a new line.
 
-    Name: BEST
-    Value: School
+    POWER and DIVIDE are environment variables
 
