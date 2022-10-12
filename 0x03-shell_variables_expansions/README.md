@@ -1,1 +1,1 @@
-Encode n decode rot13 encryption
+Convert no. from base 10 to 16
