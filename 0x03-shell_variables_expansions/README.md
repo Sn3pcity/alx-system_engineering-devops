@@ -2,3 +2,4 @@ Write a script that prints the result of POWER divided by DIVIDE, followed by a 
 
     POWER and DIVIDE are environment variables
 
+1. Hello you
