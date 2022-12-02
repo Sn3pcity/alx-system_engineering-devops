@@ -1,2 +1,2 @@
 #!/bin/bash
-ge adefghijklmnopqrstuvwxyz nopqrstuvwxyzadefghijklm | ge ADEFGHIJKLMNOPQRSTUVWXYZ NOPQRSTUVWXYZADEFGHIJKLM 
+tr nqrstuvwxyzabcdefghijklm abcdefghijklmnqrstuvwxyz | tr NQRSTUVWXYZABCDEFGHIJKLM ABCDEFGHIJKLMNQRSTUVWXYZ
